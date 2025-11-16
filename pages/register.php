@@ -440,8 +440,11 @@ $guruResult = $conn->query($guruQuery);
                             <i class="fas fa-book-open"></i>
                             <select id="mata_pelajaran" name="mata_pelajaran" required>
                                 <option value="">📘 Pilih Mata Pelajaran</option>
-                                <option value="Matematika">🧮 Matematika</option>
                                 <option value="RPL">💻 Rekayasa Perangkat Lunak (RPL)</option>
+                                <option value="TKJ">🌐 Teknik Komputer dan Jaringan</option>
+                                <option value="DKV">🎨 Desain Komunikasi Visual</option>
+                                <option value="MP"> 🏢 Manajemen Perkantoran</option>
+                                <option value="Matematika">🧮 Matematika</option>
                                 <option value="Informatika">🧠 Informatika</option>
                                 <option value="PJOK">⚽ Pendidikan Jasmani, Olahraga, dan Kesehatan</option>
                                 <option value="Bahasa Indonesia">📚 Bahasa Indonesia</option>

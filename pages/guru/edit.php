@@ -144,8 +144,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                             <select id="mata_pelajaran" name="mata_pelajaran" class="form-control" required>
                                 <?php
                                 $mapel = [
-                                    "Matematika" => "🧮 Matematika",
                                     "RPL" => "💻 Rekayasa Perangkat Lunak (RPL)",
+                                    "TKJ" => "🖥️ Teknik Komputer dan Jaringan (TKJ)",
+                                    "DKV" => "🎨 Desain Komunikasi Visual (DKV)",
+                                    "MP" => " 🏢 Manajemen Perkantoran",
+                                    "Matematika" => "🧮 Matematika",
                                     "Informatika" => "🧠 Informatika",
                                     "PJOK" => "⚽ Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK)",
                                     "Bahasa Indonesia" => "📚 Bahasa Indonesia",

@@ -135,8 +135,11 @@ $user = $result_user->fetch_assoc();
                             <label for="mata_pelajaran" class="form-label">Mata Pelajaran</label>
                             <select id="mata_pelajaran" name="mata_pelajaran" class="form-control" required>
                                 <option value="">📘 Pilih Mata Pelajaran</option>
-                                <option value="Matematika">🧮 Matematika</option>
                                 <option value="RPL">💻 Rekayasa Perangkat Lunak (RPL)</option>
+                                <option value="TKJ">🌐 Teknik Komputer dan Jaringan</option>
+                                <option value="DKV">🎨 Desain Komunikasi Visual</option>
+                                <option value="MP"> 🏢 Manajemen Perkantoran</option>
+                                <option value="Matematika">🧮 Matematika</option>
                                 <option value="Informatika">🧠 Informatika</option>
                                 <option value="PJOK">⚽ Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK)</option>
                                 <option value="Bahasa Indonesia">📚 Bahasa Indonesia</option>
