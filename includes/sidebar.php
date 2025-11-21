@@ -1,7 +1,7 @@
  <!-- Sidebar -->
  <div class="sidebar">
      <div class="sidebar-header">
-         <img src="../assets/images/logo_smk5.png" alt="Logo SMKN 5" class="sidebar-logo">
+         <img src="../assets/images/logo_smk5.jpg" alt="Logo SMKN 5" class="sidebar-logo">
          <h2 class="sidebar-title">SMKN 5</h2>
      </div>
 

@@ -271,7 +271,7 @@ if (isset($_SESSION['success_message'])) {
     <div class="auth-container">
         <div class="auth-card glass-card">
             <div class="auth-header">
-                <img src="../assets/images/logo_smk5.jpeg" alt="Logo SMKN 5" class="auth-logo">
+                <img src="../assets/images/logo_smk5.jpg" alt="Logo SMKN 5" class="auth-logo">
                 <h1 class="auth-title">Sistem Manajemen Sekolah</h1>
                 <p class="auth-subtitle">SMKN 5 Kota Tangerang</p>
             </div>
@@ -317,7 +317,7 @@ if (isset($_SESSION['success_message'])) {
     <!-- Progress Bar -->
     <div class="progress-container" id="progress-container">
         <div class="progress-content">
-            <img src="../assets/images/logo_smk5.jpeg" alt="Logo SMKN 5" class="progress-logo">
+            <img src="../assets/images/bg-sekolah.jpg" alt="Logo SMKN 5" class="progress-logo">
             <h2 class="progress-title">Sedang Masuk<span class="loading-dots"></span></h2>
             <div class="progress-bar-container">
                 <div class="progress-bar" id="progress-bar"></div>

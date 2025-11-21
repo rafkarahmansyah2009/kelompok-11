@@ -329,7 +329,7 @@ $guruResult = $conn->query($guruQuery);
     <div class="auth-container">
         <div class="auth-card glass-card">
             <div class="auth-header">
-                <img src="../assets/images/logo_smk5.jpeg" alt="Logo SMKN 5" class="auth-logo" id="rocket-logo">
+                <img src="../assets/images/logo_smk5.jpg" alt="Logo SMKN 5" class="auth-logo" id="rocket-logo">
                 <h1 class="auth-title">Buat Akun Baru</h1>
                 <p class="auth-subtitle">SMKN 5 Kota Tangerang</p>
             </div>
