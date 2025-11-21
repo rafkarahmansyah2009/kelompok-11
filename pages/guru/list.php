@@ -209,13 +209,17 @@ $result = $conn->query($query);
 
             <!-- Footer -->
             <div class="footer">
-                Developed by Kelompok 11 — Rafka, Fahri, Sri | © 2025 SMKN 5 Kota Tangerang
+                Developed by Kelompok 11 — Rafka, Fahri, Sri | 2025 SMKN 5 Kota Tangerang
             </div>
         </div>
     </div>
 
     <!-- SweetAlert2 -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <!-- Script JS untuk fungsi pencarian -->
+    <script src="../../assets/js/main.js"></script>
+    <script src="../../assets/js/menu.js"></script>
 
     <script>
         document.querySelectorAll(".delete-btn").forEach(btn => {
